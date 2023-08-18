@@ -1,0 +1,9 @@
+{
+    "bitstamp": {
+        "exchange": "eurusd",
+        "start_data_length":500,
+        "continous_data_length": 1,
+        "sec_data_interval": 60,
+        "delay": 3
+    }
+}
